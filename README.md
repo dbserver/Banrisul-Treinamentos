@@ -26,6 +26,7 @@ Abaixo estão os links para os repositórios que contêm materiais de apoio util
 - [Curso Paradigmas](https://github.com/dbserver/Curso-Paradigmas)
 - [Curso Csharp](https://github.com/dbserver/Curso-Csharp)
 - [Curso SQL](https://github.com/dbserver/Curso-SQL)
+- [Curso HTML](https://github.com/dbserver/Curso-HtmlCSS)
 
 ## Ferramentas Utilizadas
 
