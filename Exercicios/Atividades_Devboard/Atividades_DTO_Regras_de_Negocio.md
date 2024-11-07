@@ -29,3 +29,5 @@ na conta do cliente.
 suficiente antes de permitir a realização de um saque.
 
 >Após classificar cada item, explique por que cada uma é uma Regra de Negócio ou uma Funcionalidade
+
+**DICA:** Crie um documento referente a essa atividade, coloque a pergunta e descreva a analise que foi feita.
