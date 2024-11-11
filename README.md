@@ -47,4 +47,4 @@ Qualquer outro material relevante utilizado durante o curso se encontra listado 
 
 ## FORMULÁRIO AUTO AVALIAÇÃO
 
-[Já liberamos aqui ]()
+[Formulário aqui 👋](https://forms.office.com/Pages/ResponsePage.aspx?id=2Zn0JZ2aiUK6ROfRxTWLYZlJiLChu5xPuvecebP5919UMjE2TDZZVk03T1JaQkZKQVFEVExJSTlNUS4u)
