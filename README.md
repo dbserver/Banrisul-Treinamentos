@@ -47,4 +47,4 @@ Qualquer outro material relevante utilizado durante o curso se encontra listado 
 
 ## FORMULÁRIO AUTO AVALIAÇÃO
 
-<a href="https://forms.office.com/Pages/DesignPageV2.aspx?subpage=design&token=97980296e2ad460287336e089cb280ed&id=2Zn0JZ2aiUK6ROfRxTWLYZlJiLChu5xPuvecebP5919UMjE2TDZZVk03T1JaQkZKQVFEVExJSTlNUS4u" target="_blank">Avaliação</a>
+[Já liberamos aqui ]()
