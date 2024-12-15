@@ -43,7 +43,8 @@ Qualquer outro material relevante utilizado durante o curso se encontra listado 
 - [Projeto Banco feito em aula](https://github.com/dbserver/ProjetoBanco)
 - [Dojo](https://github.com/dbserver/banrisul-dojo)
 - [Teste](https://github.com/vinisdl/TestePix)
-- [Treinos com JavaScript](https://github.com/RafaelLimaOl/Csharp-CRUD)
+- [Treinos com JavaScript Template](https://github.com/RafaelLimaOl/Csharp-CRUD)
+- [Vídeo - Responsive Construction Website Design Using HTML CSS And JavaScript](https://youtu.be/IOyZO_l94ME?si=lOBAWCq_l3_FRIZ8)
 
 
 ## FORMULÁRIO AUTO AVALIAÇÃO
