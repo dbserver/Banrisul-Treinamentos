@@ -43,6 +43,7 @@ Qualquer outro material relevante utilizado durante o curso se encontra listado 
 - [Projeto Banco feito em aula](https://github.com/dbserver/ProjetoBanco)
 - [Dojo](https://github.com/dbserver/banrisul-dojo)
 - [Teste](https://github.com/vinisdl/TestePix)
+- [Treinos com JavaScript](https://github.com/RafaelLimaOl/Csharp-CRUD)
 
 
 ## FORMULÁRIO AUTO AVALIAÇÃO
